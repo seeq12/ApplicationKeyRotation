@@ -1,0 +1,17 @@
+# Seeq Python SDK
+seeq>=65.0.0
+seeq-spy[all]
+
+# Azure SDK for Key Vault
+azure-keyvault-secrets>=4.7.0
+azure-identity>=1.14.0
+
+# Azure CLI integration (uses az login credentials)
+azure-cli-core>=2.50.0
+
+# Jupyter for running the notebook
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Additional utilities
+python-dateutil>=2.8.0
